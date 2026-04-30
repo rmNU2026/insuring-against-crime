@@ -16,5 +16,3 @@ Raw data must be downloaded separately:
 - **BRFSS:** [CDC](https://www.cdc.gov/brfss/)
 - **SAMHSA TEDS-A:** [SAMHSA](https://www.samhsa.gov/data/data-we-collect/teds/datafiles)
 - **Simulated eligibility:** Constructed using the BKL calculator applied to March 1996 CPS
-
-## Repository Structure
